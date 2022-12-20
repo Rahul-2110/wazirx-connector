@@ -1,0 +1,11 @@
+{
+  "name": "wazirx-connector",
+  "version": "0.0.1",
+  "description": "WazirX Exchange apis library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
